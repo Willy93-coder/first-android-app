@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="title">First App Android</string>
+    <string name="greeting">Welcome!</string>
+    <string name="name_question">What is your name?</string>
+    <string name="your_name">Your name</string>
+    <string name="bt_greeting">Greeting</string>
+    <string name="msgEmpty">I need your name for greeting.</string>
+    <string name="msgGreeting">Hello %1$s</string>
+</resources>
